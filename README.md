@@ -5,6 +5,7 @@
 Built for [Creative Jam 26e edition](https://itch.io/jam/creative-jam-26e-edition) by Team 12.
 
 <img width="630" height="500" alt="Clock Hit Logo" src="https://github.com/user-attachments/assets/6e1ff7bc-1437-413f-8306-5f0198c6d84d" />
+
 🎮 **[Play it on itch.io](https://marceltaveau.itch.io/clockhit)**
 
 ## About
